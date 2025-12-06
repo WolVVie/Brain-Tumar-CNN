@@ -71,7 +71,7 @@ modelin True Label vs Predicted Label çıktısı görselleştirilmiştir.
 
 ## Repo’yu klonla:
 
-git clone https://github.com/kullaniciadi/brain-tumor-cnn.git
+git clone https://github.com/WolVVie/brain-tumor-cnn.git
 
 
 ## Gereken kütüphaneleri kur:
